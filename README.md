@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 120 | 20 |
+| 135 | 20 |
 
 ---
 
@@ -15,21 +15,21 @@
 - [*special](#special) (2)
 - [binary search](#binary-search) (5)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (21)
+- [brute force](#brute-force) (24)
 - [combinatorics](#combinatorics) (1)
-- [constructive algorithms](#constructive-algorithms) (10)
+- [constructive algorithms](#constructive-algorithms) (11)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (2)
-- [games](#games) (3)
+- [games](#games) (4)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (32)
-- [implementation](#implementation) (63)
+- [greedy](#greedy) (38)
+- [implementation](#implementation) (69)
 - [interactive](#interactive) (1)
-- [math](#math) (46)
+- [math](#math) (52)
 - [number theory](#number-theory) (4)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (11)
-- [strings](#strings) (20)
+- [sortings](#sortings) (12)
+- [strings](#strings) (21)
 - [ternary search](#ternary-search) (1)
 - [two pointers](#two-pointers) (1)
 
@@ -63,6 +63,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 214A | [System of Equations](https://codeforces.com/contest/214/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/214/A%20-%20System%20of%20Equations/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 268A | [Games](https://codeforces.com/contest/268/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/268/A%20-%20Games/solution.cpp) |
@@ -74,10 +75,12 @@
 | 1641A | [Great Sequence](https://codeforces.com/contest/1641/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1641/A%20-%20Great%20Sequence/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1743A | [Password](https://codeforces.com/contest/1743/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1743/A%20-%20Password/solution.cpp) |
+| 1873A | [Short Sort](https://codeforces.com/contest/1873/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1873/A%20-%20Short%20Sort/solution.cpp) |
 | 1875A | [Jellyfish and Undertale](https://codeforces.com/contest/1875/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1875/A%20-%20Jellyfish%20and%20Undertale/solution.cpp) |
 | 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
+| 1988A | [Split the Multiset](https://codeforces.com/contest/1988/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1988/A%20-%20Split%20the%20Multiset/solution.cpp) |
 | 2008C | [Longest Good Array](https://codeforces.com/contest/2008/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2008/C%20-%20Longest%20Good%20Array/solution.cpp) |
 | 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.cpp) |
 | 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
@@ -97,6 +100,7 @@
 | 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.cpp) |
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
+| 1343B | [Balanced Array](https://codeforces.com/contest/1343/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1343/B%20-%20Balanced%20Array/solution.cpp) |
 | 1837A | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1837/A%20-%20Grasshopper%20on%20a%20Line/solution.cpp) |
 | 1859A | [United We Stand](https://codeforces.com/contest/1859/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1859/A%20-%20United%20We%20Stand/solution.cpp) |
 | 1862B | [Sequence Game](https://codeforces.com/contest/1862/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1862/B%20-%20Sequence%20Game/solution.cpp) |
@@ -124,6 +128,7 @@
 |---|---------|------------|----------|
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
+| 2042B | [Game with Colored Marbles](https://codeforces.com/contest/2042/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2042/B%20-%20Game%20with%20Colored%20Marbles/solution.cpp) |
 | 2196A | [Game with a Fraction](https://codeforces.com/contest/2196/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2196/A%20-%20Game%20with%20a%20Fraction/solution.cpp) |
 
 ### graph matchings
@@ -137,6 +142,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/160/A%20-%20Twins/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.cpp) |
@@ -155,6 +161,9 @@
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+| 1988A | [Split the Multiset](https://codeforces.com/contest/1988/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1988/A%20-%20Split%20the%20Multiset/solution.cpp) |
+| 2042B | [Game with Colored Marbles](https://codeforces.com/contest/2042/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2042/B%20-%20Game%20with%20Colored%20Marbles/solution.cpp) |
+| 2148C | [Pacer](https://codeforces.com/contest/2148/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2148/C%20-%20Pacer/solution.cpp) |
 | 2169A | [Alice and Bob](https://codeforces.com/contest/2169/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2169/A%20-%20Alice%20and%20Bob/solution.cpp) |
 | 2178A | [Yes or Yes](https://codeforces.com/contest/2178/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2178/A%20-%20Yes%20or%20Yes/solution.cpp) |
 | 2179B | [Blackslex and Showering](https://codeforces.com/contest/2179/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2179/B%20-%20Blackslex%20and%20Showering/solution.cpp) |
@@ -166,7 +175,9 @@
 | 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
 | 2200C | [Specialty String](https://codeforces.com/contest/2200/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2200/C%20-%20Specialty%20String/solution.cpp) |
 | 2204B | [Right Maximum](https://codeforces.com/contest/2204/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2204/B%20-%20Right%20Maximum/solution.cpp) |
+| 2207A | [1-1](https://codeforces.com/contest/2207/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2207/A%20-%201-1/solution.cpp) |
 | 2209A | [Flip Flops](https://codeforces.com/contest/2209/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2209/A%20-%20Flip%20Flops/solution.cpp) |
+| 2216A | [Course Wishes](https://codeforces.com/contest/2216/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2216/A%20-%20Course%20Wishes/solution.cpp) |
 | 2238A | [Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2238/A%20-%20Another%20Puzzle%20from%20Papyrus/solution.cpp) |
 
 ### implementation
@@ -199,6 +210,7 @@
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/344/A%20-%20Magnets/solution.cpp) |
+| 427A | [Police Recruits](https://codeforces.com/contest/427/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/427/A%20-%20Police%20Recruits/solution.cpp) |
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.cpp) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.cpp) |
@@ -207,6 +219,7 @@
 | 510A | [Fox And Snake](https://codeforces.com/contest/510/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/510/A%20-%20Fox%20And%20Snake/solution.cpp) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/520/A%20-%20Pangram/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
+| 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.cpp) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.cpp) |
 | 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/705/A%20-%20Hulk/solution.cpp) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
@@ -219,18 +232,22 @@
 | 935B | [Fafa and the Gates](https://codeforces.com/contest/935/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/935/B%20-%20Fafa%20and%20the%20Gates/solution.cpp) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.cpp) |
+| 1186A | [Vus the Cossack and a Contest](https://codeforces.com/contest/1186/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1186/A%20-%20Vus%20the%20Cossack%20and%20a%20Contest/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 | 1505A | [Is it rated - 2](https://codeforces.com/contest/1505/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1505/A%20-%20Is%20it%20rated%20-%202/solution.cpp) |
 | 1560A | [Dislike of Threes](https://codeforces.com/contest/1560/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1560/A%20-%20Dislike%20of%20Threes/solution.cpp) |
+| 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1669/A%20-%20Division%3F/solution.cpp) |
 | 1676A | [Lucky?](https://codeforces.com/contest/1676/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1676/A%20-%20Lucky%3F/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1743A | [Password](https://codeforces.com/contest/1743/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1743/A%20-%20Password/solution.cpp) |
 | 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1829/B%20-%20Blank%20Space/solution.cpp) |
+| 1873A | [Short Sort](https://codeforces.com/contest/1873/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1873/A%20-%20Short%20Sort/solution.cpp) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
 | 1915C | [Can I Square?](https://codeforces.com/contest/1915/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1915/C%20-%20Can%20I%20Square%3F/solution.cpp) |
+| 1988A | [Split the Multiset](https://codeforces.com/contest/1988/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1988/A%20-%20Split%20the%20Multiset/solution.cpp) |
 | 2169A | [Alice and Bob](https://codeforces.com/contest/2169/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2169/A%20-%20Alice%20and%20Bob/solution.cpp) |
 | 2179B | [Blackslex and Showering](https://codeforces.com/contest/2179/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2179/B%20-%20Blackslex%20and%20Showering/solution.cpp) |
 | 2185C | [Shifted MEX](https://codeforces.com/contest/2185/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2185/C%20-%20Shifted%20MEX/solution.cpp) |
@@ -254,8 +271,10 @@
 | 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.cpp) |
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.cpp) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
+| 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/318/A%20-%20Even%20Odds/solution.cpp) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
+| 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
@@ -265,6 +284,7 @@
 | 1154A | [Restoring Three Numbers](https://codeforces.com/contest/1154/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1154/A%20-%20Restoring%20Three%20Numbers/solution.cpp) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.cpp) |
+| 1343B | [Balanced Array](https://codeforces.com/contest/1343/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1343/B%20-%20Balanced%20Array/solution.cpp) |
 | 1348A | [Phoenix and Balance](https://codeforces.com/contest/1348/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1348/A%20-%20Phoenix%20and%20Balance/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
@@ -282,8 +302,11 @@
 | 1878C | [Vasilije in Cacak](https://codeforces.com/contest/1878/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1878/C%20-%20Vasilije%20in%20Cacak/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
+| 1988A | [Split the Multiset](https://codeforces.com/contest/1988/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1988/A%20-%20Split%20the%20Multiset/solution.cpp) |
 | 1996A | [Legs](https://codeforces.com/contest/1996/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1996/A%20-%20Legs/solution.cpp) |
 | 2008C | [Longest Good Array](https://codeforces.com/contest/2008/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2008/C%20-%20Longest%20Good%20Array/solution.cpp) |
+| 2094C | [Brr Brrr Patapim](https://codeforces.com/contest/2094/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2094/C%20-%20Brr%20Brrr%20Patapim/solution.cpp) |
+| 2148C | [Pacer](https://codeforces.com/contest/2148/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2148/C%20-%20Pacer/solution.cpp) |
 | 2166B | [Tab Closing](https://codeforces.com/contest/2166/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2166/B%20-%20Tab%20Closing/solution.cpp) |
 | 2179A | [Blackslex and Password](https://codeforces.com/contest/2179/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2179/A%20-%20Blackslex%20and%20Password/solution.cpp) |
 | 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.cpp) |
@@ -314,6 +337,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.cpp) |
+| 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/160/A%20-%20Twins/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 490A | [Team Olympiad](https://codeforces.com/contest/490/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/490/A%20-%20Team%20Olympiad/solution.cpp) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
@@ -349,6 +373,7 @@
 | 2178A | [Yes or Yes](https://codeforces.com/contest/2178/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2178/A%20-%20Yes%20or%20Yes/solution.cpp) |
 | 2179A | [Blackslex and Password](https://codeforces.com/contest/2179/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2179/A%20-%20Blackslex%20and%20Password/solution.cpp) |
 | 2200C | [Specialty String](https://codeforces.com/contest/2200/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2200/C%20-%20Specialty%20String/solution.cpp) |
+| 2207A | [1-1](https://codeforces.com/contest/2207/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2207/A%20-%201-1/solution.cpp) |
 
 ### ternary search
 
