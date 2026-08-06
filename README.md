@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 228 | 25 |
+| 229 | 25 |
 
 ---
 
@@ -25,14 +25,14 @@
 - [games](#games) (8)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (78)
+- [greedy](#greedy) (79)
 - [implementation](#implementation) (102)
 - [interactive](#interactive) (1)
 - [math](#math) (89)
 - [number theory](#number-theory) (16)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (22)
+- [sortings](#sortings) (23)
 - [strings](#strings) (35)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
@@ -285,6 +285,7 @@
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.cpp) |
 | 2248A | [You Delete, I Delete](https://codeforces.com/contest/2248/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2248/A%20-%20You%20Delete%2C%20I%20Delete/solution.cpp) |
+| 2248B | [Merge to Match](https://codeforces.com/contest/2248/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2248/B%20-%20Merge%20to%20Match/solution.cpp) |
 
 ### implementation
 
@@ -551,6 +552,7 @@
 | 2238A | [Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2238/A%20-%20Another%20Puzzle%20from%20Papyrus/solution.cpp) |
 | 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2242/A%20-%20Bigrams/solution.cpp) |
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.cpp) |
+| 2248B | [Merge to Match](https://codeforces.com/contest/2248/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2248/B%20-%20Merge%20to%20Match/solution.cpp) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 
 ### strings
