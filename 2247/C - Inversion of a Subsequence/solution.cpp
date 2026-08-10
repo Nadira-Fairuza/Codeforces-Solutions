@@ -47,7 +47,7 @@ int main() {
             continue;
         }
 //because if there are even different in a then they 
-//need to be flipped after spitting in half
+//need to be flipped one more time to make sum odd
         // One or two operations
         if (diff % 2 == 1)
             cout << 1 << endl;
