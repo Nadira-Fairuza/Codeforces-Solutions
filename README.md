@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 232 | 25 |
+| 233 | 25 |
 
 ---
 
@@ -28,11 +28,11 @@
 - [greedy](#greedy) (80)
 - [implementation](#implementation) (103)
 - [interactive](#interactive) (1)
-- [math](#math) (91)
+- [math](#math) (92)
 - [number theory](#number-theory) (17)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (23)
+- [sortings](#sortings) (24)
 - [strings](#strings) (35)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
@@ -498,6 +498,7 @@
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.cpp) |
 | 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.cpp) |
 | 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.cpp) |
+| 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 
 ### number theory
 
@@ -560,6 +561,7 @@
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.cpp) |
 | 2248B | [Merge to Match](https://codeforces.com/contest/2248/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2248/B%20-%20Merge%20to%20Match/solution.cpp) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
+| 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 
 ### strings
 
