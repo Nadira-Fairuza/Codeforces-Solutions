@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 238 | 25 |
+| 239 | 25 |
 
 ---
 
@@ -26,7 +26,7 @@
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (83)
-- [implementation](#implementation) (103)
+- [implementation](#implementation) (104)
 - [interactive](#interactive) (1)
 - [math](#math) (94)
 - [number theory](#number-theory) (19)
@@ -300,6 +300,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 16A | [Flag](https://codeforces.com/contest/16/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/16/A%20-%20Flag/solution.cpp) |
 | 32B | [Borze](https://codeforces.com/contest/32/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/32/B%20-%20Borze/solution.cpp) |
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/59/A%20-%20Word/solution.cpp) |
