@@ -9,34 +9,38 @@ int main() {
         int n;
         cin >> n;
  
-        vector<vector<int>> a(n, vector<int>(n));
-        vector<bool> used(2*n + 1, false);
+        unordered_set<int> a;
+        vector<int> ans(2 * n + 1);
  
-        for(int i = 0; i < n; i++) {
-            for(int j = 0; j < n; j++) {
-                cin >> a[i][j];
-                used[a[i][j]] = true;
+        for(int i = 1; i <= n; i++) {
+            for(int j = 1; j <= n; j++) {
+                int x;
+                cin >> x;
+                a.insert(x);
+ 
+                if(i == 1) {
+                    ans[j + 1] = x;
+                }
+ 
+                if(j == n && i > 1) {
+                    ans[n + i] = x;
+                }
             }
         }
  
-        int p1;
-        for(int x = 1; x <= 2*n; x++) {
-            if(!used[x]) {
-                p1 = x;
+        for(int i = 1; i <= 2 * n; i++) {
+            if(a.find(i) == a.end()) {
+                ans[1] = i;
                 break;
             }
         }
  
-        cout << p1 << " ";
+        for(int i = 1; i <= 2 * n; i++) {
+            cout << ans[i] << " ";
+        }
  
-        for(int j = 0; j < n; j++)
-            cout << a[0][j] << " ";
- 
-        for(int i = 1; i < n; i++)
-            cout << a[i][n-1] << " ";
- 
-        cout << "
-";
+        cout << '
+';
     }
  
     return 0;
