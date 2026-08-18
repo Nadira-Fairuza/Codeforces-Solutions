@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 247 | 25 |
+| 248 | 25 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (2)
 - [binary search](#binary-search) (8)
 - [bitmasks](#bitmasks) (2)
-- [brute force](#brute-force) (40)
+- [brute force](#brute-force) (41)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (26)
 - [data structures](#data-structures) (4)
@@ -25,15 +25,15 @@
 - [games](#games) (9)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (87)
-- [implementation](#implementation) (105)
+- [greedy](#greedy) (88)
+- [implementation](#implementation) (106)
 - [interactive](#interactive) (1)
-- [math](#math) (98)
+- [math](#math) (99)
 - [number theory](#number-theory) (19)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (25)
-- [strings](#strings) (38)
+- [strings](#strings) (39)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (6)
@@ -85,6 +85,7 @@
 | 1097A | [Gennady and a Card Game](https://codeforces.com/contest/1097/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1097/A%20-%20Gennady%20and%20a%20Card%20Game/solution.cpp) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
 | 1641A | [Great Sequence](https://codeforces.com/contest/1641/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1641/A%20-%20Great%20Sequence/solution.cpp) |
+| 1676C | [Most Similar Words](https://codeforces.com/contest/1676/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1676/C%20-%20Most%20Similar%20Words/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1743A | [Password](https://codeforces.com/contest/1743/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1743/A%20-%20Password/solution.cpp) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
@@ -236,6 +237,7 @@
 | 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.cpp) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.cpp) |
 | 1641A | [Great Sequence](https://codeforces.com/contest/1641/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1641/A%20-%20Great%20Sequence/solution.cpp) |
+| 1676C | [Most Similar Words](https://codeforces.com/contest/1676/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1676/C%20-%20Most%20Similar%20Words/solution.cpp) |
 | 1807C | [Find and Replace](https://codeforces.com/contest/1807/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1807/C%20-%20Find%20and%20Replace/solution.cpp) |
 | 1837B | [Comparison String](https://codeforces.com/contest/1837/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1837/B%20-%20Comparison%20String/solution.cpp) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
@@ -382,6 +384,7 @@
 | 1560A | [Dislike of Threes](https://codeforces.com/contest/1560/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1560/A%20-%20Dislike%20of%20Threes/solution.cpp) |
 | 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1669/A%20-%20Division%3F/solution.cpp) |
 | 1676A | [Lucky?](https://codeforces.com/contest/1676/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1676/A%20-%20Lucky%3F/solution.cpp) |
+| 1676C | [Most Similar Words](https://codeforces.com/contest/1676/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1676/C%20-%20Most%20Similar%20Words/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1703B | [ICPC Balloons](https://codeforces.com/contest/1703/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1703/B%20-%20ICPC%20Balloons/solution.cpp) |
 | 1743A | [Password](https://codeforces.com/contest/1743/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1743/A%20-%20Password/solution.cpp) |
@@ -459,6 +462,7 @@
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.cpp) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
 | 1560B | [Who's Opposite?](https://codeforces.com/contest/1560/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1560/B%20-%20Who's%20Opposite%3F/solution.cpp) |
+| 1676C | [Most Similar Words](https://codeforces.com/contest/1676/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1676/C%20-%20Most%20Similar%20Words/solution.cpp) |
 | 1743A | [Password](https://codeforces.com/contest/1743/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1743/A%20-%20Password/solution.cpp) |
 | 1837A | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1837/A%20-%20Grasshopper%20on%20a%20Line/solution.cpp) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
@@ -615,6 +619,7 @@
 | 729A | [Interview with Oleg](https://codeforces.com/contest/729/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/729/A%20-%20Interview%20with%20Oleg/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 868A | [Bark to Unlock](https://codeforces.com/contest/868/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/868/A%20-%20Bark%20to%20Unlock/solution.cpp) |
+| 1676C | [Most Similar Words](https://codeforces.com/contest/1676/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1676/C%20-%20Most%20Similar%20Words/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1807C | [Find and Replace](https://codeforces.com/contest/1807/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1807/C%20-%20Find%20and%20Replace/solution.cpp) |
 | 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
