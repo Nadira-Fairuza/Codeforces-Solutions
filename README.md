@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 245 | 25 |
+| 246 | 25 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (2)
 - [binary search](#binary-search) (8)
 - [bitmasks](#bitmasks) (2)
-- [brute force](#brute-force) (39)
+- [brute force](#brute-force) (40)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (26)
 - [data structures](#data-structures) (4)
@@ -33,7 +33,7 @@
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (25)
-- [strings](#strings) (36)
+- [strings](#strings) (37)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (6)
@@ -110,6 +110,7 @@
 | 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.cpp) |
 | 2237B | [Annoying the Ghost](https://codeforces.com/contest/2237/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2237/B%20-%20Annoying%20the%20Ghost/solution.cpp) |
 | 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.cpp) |
+| 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.cpp) |
 
 ### combinatorics
 
@@ -630,6 +631,7 @@
 | 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2242/A%20-%20Bigrams/solution.cpp) |
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
+| 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Nadira-Fairuza/Codeforces-Solutions/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.cpp) |
 
 ### ternary search
 
